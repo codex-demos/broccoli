@@ -1,0 +1,76 @@
+/* General body styling */
+html {
+  background-image: url('https://images.unsplash.com/photo-1620512486820-c08e713eb926?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8YnJvY2NvbGl8fHx8fHwxNzA1Njg0ODk1&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #333;
+  width: 50%;
+  margin: auto;
+  padding: 50px;
+}
+
+/* Header styles */
+h1,
+h2 {
+  color: #32a852;
+}
+
+/* Image styling */
+img {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Paragraph styling */
+p {
+  margin: 20px;
+}
+
+/* Emphasized text styling */
+em {
+  color: #ff6347;
+  font-style: italic;
+}
+
+/* Superscript styling */
+sup {
+  font-size: smaller;
+  vertical-align: super;
+}
+
+/* Unordered list styling */
+ul {
+  margin: 20px;
+  padding-left: 40px;
+}
+
+/* List item styling */
+li {
+  margin-bottom: 10px;
+}
+
+/* Strong element styling */
+strong {
+  color: #2a2a72;
+}
+
+/* Subscript styling */
+sub {
+  font-size: smaller;
+  vertical-align: sub;
+}
+
+/* Fraction styling */
+frac {
+  font-size: smaller;
+}
